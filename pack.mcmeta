@@ -1,0 +1,16 @@
+{
+	"pack": {
+		"index": "hugoalh/Minecraft.Java.DataPack.TagPlus",
+		"name": "[Java Data Pack] Tag+",
+		"author": "hugoalh",
+		"version": "1.0.0",
+		"description": "Tag+, 1.0.0",
+		"tag": [
+			"hugoalh",
+			"java",
+			"datapack",
+			"tagplus"
+		],
+		"pack_format": 5
+	}
+}

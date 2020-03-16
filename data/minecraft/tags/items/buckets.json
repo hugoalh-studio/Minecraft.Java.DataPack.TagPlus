@@ -1,0 +1,8 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:fish_buckets",
+		"#minecraft:fluid_buckets",
+		"minecraft:bucket"
+	]
+}

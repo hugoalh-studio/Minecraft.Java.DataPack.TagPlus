@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:wooden_fences",
+		"minecraft:nether_brick_fence"
+	]
+}

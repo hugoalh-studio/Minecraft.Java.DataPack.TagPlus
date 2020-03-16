@@ -1,0 +1,8 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:coral_fans",
+		"#minecraft:coral_plants",
+		"#minecraft:wall_corals"
+	]
+}
