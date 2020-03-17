@@ -41,16 +41,15 @@
   <tr>
     <td align="center"><b>問題</b></td>
     <td>
-      <b>開啟：</b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />; <b>已關閉：<img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" /></b>
+      <b>開啟：</b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />；<b>已關閉：</b><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>合併請求</b></td>
     <td>
-      <b>開啟：</b><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />; <b>已關閉：</b><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />
+      <b>開啟：</b><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />；<b>已關閉：</b><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />
     </td>
   </tr>
-
   <tr>
     <td align="center"><b>授權</b></td>
     <td>公開源碼；除非另有明確說明，否則保留所有權利</td>

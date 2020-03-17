@@ -45,7 +45,7 @@
   <tr>
     <td align="center"><b>Issue</b></td>
     <td>
-      <b>Open: </b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />; <b>Closed: <img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" /></b>
+      <b>Open: </b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?color=000000&label=%20" />
     </td>
   </tr>
   <tr>
