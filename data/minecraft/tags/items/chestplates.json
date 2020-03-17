@@ -1,0 +1,10 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:diamond_chestplate",
+		"minecraft:golden_chestplate",
+		"minecraft:iron_chestplate",
+		"minecraft:leather_chestplate",
+		"minecraft:wooden_chestplate"
+	]
+}

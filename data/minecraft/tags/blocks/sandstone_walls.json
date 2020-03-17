@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:red_sandstone_wall",
+		"minecraft:sandstone_wall"
+	]
+}
