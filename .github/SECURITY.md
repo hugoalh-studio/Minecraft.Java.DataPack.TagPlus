@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Version</strong></td>
-    <td align="center"><strong>Minecraft Version</strong></td>
-    <td align="center"><strong>Support</strong></td>
+    <td align="center"><b>Version</b></td>
+    <td align="center"><b>Minecraft Version</b></td>
+    <td align="center"><b>Support</b></td>
   </tr>
   <tr>
     <td>1.0.0</td>
@@ -21,4 +21,4 @@
 
 ## Report Vulnerability
 
-Submit the issue via [GitHub (require GitHub account)](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues).
+Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues).
