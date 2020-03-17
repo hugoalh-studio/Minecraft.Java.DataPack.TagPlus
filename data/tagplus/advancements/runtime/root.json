@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:name_tag"
+		},
+		"title": {
+			"text": "[Java Data Pack] Tag+"
+		},
+		"description": {
+			"text": "Tag+, 1.0.0"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/block/black_concrete.png"
+	},
+	"criteria": {
+		"alwaystrigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
