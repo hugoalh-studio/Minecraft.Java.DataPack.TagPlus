@@ -108,10 +108,6 @@ function FullReadDirectory() {
 	return FileList;
 };
 const FileList = FullReadDirectory();
-const JSONCompilableFormat = [
-	".json",
-	".mcmeta"
-];
 const Stat = {
 	"FileTotal": FileList.length,
 	"FileTouch": 0,
@@ -121,45 +117,39 @@ const Stat = {
 };
 function GetFileSize(FullPath) {
 	const Stat = NodeJS.FileSystem.lstatSync(FullPath);
-	return (Stat.size() / 1024 / 1024);
+	return (Stat.size / 1024);
 };
 function DetermineIsNeedCompile(Path) {
-	JSONCompilableFormat.forEach((value, index) => {
-		if (Path.indexOf(value) != -1 && Path.length > value.length && Path.indexOf(value) == (Path.length - value.length)) {
-			return true;
-		};
-	});
-	return false;
+	if (Path.indexOf(".json") == (Path.length - ".json".length) || Path.indexOf(".mcmeta") == (Path.length - ".mcmeta".length)) {
+		return true;
+	};
 };
 function CompileFile(Path) {
 	try {
-		let FileContent = JSON.stringify(
-			JSON.parse(
-				NodeJS.FileSystem.readFileSync(
-					NodeJS.Path.join(Directory["Import"], Path),
-					{
-						encoding: "utf8",
-						flag: "r"
-					}
-				)
+		let FileContent = JSON.parse(
+			NodeJS.FileSystem.readFileSync(
+				NodeJS.Path.join(Directory["Import"], Path),
+				{
+					encoding: "utf8",
+					flag: "r"
+				}
 			)
 		);
 		NodeJS.FileSystem.writeFileSync(
 			NodeJS.Path.join(Directory["Export"], Path),
-			FileContent,
+			JSON.stringify(FileContent),
 			{
 				encoding: "utf8",
 				flag: "w"
 			}
 		);
 		Stat["SizeAfter"] += GetFileSize(
-			NodeJS.Path.join(Directory["Export"], value)
+			NodeJS.Path.join(Directory["Export"], Path)
 		);
 	} catch (error) {
 		Stat["FailFile"][Path] = error;
 		CopyFile(Path);
 	};
-
 };
 function CopyFile(Path) {
 	try {
@@ -168,7 +158,7 @@ function CopyFile(Path) {
 			NodeJS.Path.join(Directory["Export"], Path)
 		);
 		Stat["SizeAfter"] += GetFileSize(
-			NodeJS.Path.join(Directory["Export"], value)
+			NodeJS.Path.join(Directory["Export"], Path)
 		);
 	} catch (error) {
 		Stat["FailFile"][Path] = error;
@@ -194,6 +184,7 @@ NodeJS.Console.log(`Stat
 ::::::::::
 Total File: ${Stat["FileTotal"]}
 File Able Compile: ${Stat["FileTouch"]} (${(Stat["FileTouch"] / Stat["FileTotal"]) * 100}%)
-Size (After / Before): ${Stat["SizeAfter"]}/${Stat["SizeBefore"]} (${(Stat["SizeAfter"] / Stat["SizeBefore"]) * 100}%)
+Size (After / Before) (KB): ${Stat["SizeAfter"]}/${Stat["SizeBefore"]}
+Compression Rate: ${100 - (Stat["SizeAfter"] / Stat["SizeBefore"]) * 100}%
 Fail File: ${JSON.stringify(Stat["FailFile"])}
 `);
