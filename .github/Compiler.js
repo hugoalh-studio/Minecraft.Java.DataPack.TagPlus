@@ -108,6 +108,10 @@ function FullReadDirectory() {
 	return FileList;
 };
 const FileList = FullReadDirectory();
+const CompilableFileFormat = [
+	".json",
+	".mcmeta"
+];
 const Stat = {
 	"FileTotal": FileList.length,
 	"FileTouch": 0,
@@ -119,9 +123,11 @@ function GetFileSize(FullPath) {
 	const Stat = NodeJS.FileSystem.lstatSync(FullPath);
 	return (Stat.size / 1024);
 };
-function DetermineIsNeedCompile(Path) {
-	if (Path.indexOf(".json") == (Path.length - ".json".length) || Path.indexOf(".mcmeta") == (Path.length - ".mcmeta".length)) {
-		return true;
+function DetermineIsCompilable(Path) {
+	for (let index = 0; index < CompilableFileFormat.length; index++) {
+		if (Path.indexOf(CompilableFileFormat[index]) == (Path.length - CompilableFileFormat[index].length)) {
+			return true;
+		};
 	};
 };
 function CompileFile(Path) {
@@ -170,7 +176,7 @@ Promise.allSettled(
 			Stat["SizeBefore"] += GetFileSize(
 				NodeJS.Path.join(Directory["Import"], value)
 			);
-			if (DetermineIsNeedCompile(value) == true) {
+			if (DetermineIsCompilable(value) == true) {
 				Stat["FileTouch"]++;
 				CompileFile(value);
 			} else {
