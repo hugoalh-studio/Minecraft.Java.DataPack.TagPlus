@@ -188,9 +188,8 @@ Promise.allSettled(
 );
 NodeJS.Console.log(`Stat
 ::::::::::
-Total File: ${Stat["FileTotal"]}
-File Able Compile: ${Stat["FileTouch"]} (${(Stat["FileTouch"] / Stat["FileTotal"]) * 100}%)
-Size (After / Before) (KB): ${Stat["SizeAfter"]}/${Stat["SizeBefore"]}
+Files (Compilable / Total): ${Stat["FileTouch"]}/${Stat["FileTotal"]} (${(Stat["FileTouch"] / Stat["FileTotal"]) * 100}%)
+Sizes (After / Before) (KB): ${Stat["SizeAfter"]}/${Stat["SizeBefore"]}
 Compression Rate: ${100 - (Stat["SizeAfter"] / Stat["SizeBefore"]) * 100}%
 Fail File: ${JSON.stringify(Stat["FailFile"])}
 `);
