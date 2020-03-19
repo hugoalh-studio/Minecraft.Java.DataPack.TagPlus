@@ -59,11 +59,10 @@
       <b>下載</b><br />
       <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.TagPlus/total?color=000000&label=%20" />
     </td>
-    <td>
-      <ul>
+    <td><ul>
         <li><a href="https://www.curseforge.com/minecraft/customization/recipeplus">CurseForge</a></li>
-      </ul>
-    </td>
+        <li><a href="https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/releases">GitHub</a></li>
+    </ul></td>
   </tr>
   <tr>
     <td align="center"><b>徽章</b></td>
