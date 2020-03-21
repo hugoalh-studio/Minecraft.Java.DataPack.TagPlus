@@ -350,4 +350,4 @@
 
 ## 🐛 問題
 
-在這個專案中發現任何問題？通過[GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues)或[Google表單（英文）](https://forms.gle/Z9Guj35k1hQpQfDe6)提交該問題。
+在這個專案中發現任何問題？通過[GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues)或[Google表單（英文）](https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link)提交該問題。

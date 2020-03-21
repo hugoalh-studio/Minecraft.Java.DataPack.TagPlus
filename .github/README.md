@@ -350,4 +350,4 @@ Add and improve tags for Minecraft Java.
 
 ## 🐛 Issue
 
-Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues) or [Google Forms](https://forms.gle/Z9Guj35k1hQpQfDe6).
+Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues) or [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link).
