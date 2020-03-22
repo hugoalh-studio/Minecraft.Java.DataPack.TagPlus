@@ -60,8 +60,8 @@
       <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.TagPlus/total?color=000000&label=%20" />
     </td>
     <td><ul>
-        <li><a href="https://www.curseforge.com/minecraft/customization/tagplus">CurseForge</a></li>
-        <li><a href="https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/releases">GitHub</a></li>
+      <li><a href="https://www.curseforge.com/minecraft/customization/tagplus">CurseForge</a></li>
+      <li><a href="https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/releases">GitHub</a></li>
     </ul></td>
   </tr>
   <tr>
