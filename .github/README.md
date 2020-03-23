@@ -1,8 +1,8 @@
 🌐｜[English](./README.md)　[中文](./README.zh-hant.md)
 
-# <div style="text-align: center"><img src="https://i.imgur.com/s4ms8Qv.png" style="height: 64px; width: auto" /><br />Minecraft Java Data Pack: Tag+</div>
+# <div align="center"><img src="https://i.imgur.com/s4ms8Qv.png" style="height: 64px; width: auto" /><br />Minecraft Java Data Pack: Tag+</div>
 
-<div style="text-align: center">
+<div align="center">
   <code>hugoalh/Minecraft.Java.DataPack.TagPlus</code><br />
   <img src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
   <img src="https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
@@ -14,24 +14,24 @@
 
 <table>
   <tr>
-    <td style="text-align: center">
+    <td align="center">
       <b>Author & Contributor</b><br />
       <img src="https://img.shields.io/github/contributors/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />
     </td>
     <td><a href="https://github.com/hugoalh">hugoalh</a></td>
   </tr>
   <tr>
-    <td style="text-align: center"><b>License</b></td>
+    <td align="center"><b>License</b></td>
     <td>Public source; All rights reserved, unless otherwise explicitly stated</td>
   </tr>
   <tr>
-    <td style="text-align: center"><b>Release</b></td>
+    <td align="center"><b>Release</b></td>
     <td>
       <b>Stable: </b><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" /> (<img src="https://img.shields.io/github/release-date/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />); <b>Latest: </b><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.TagPlus?include_prereleases&style=flat-square&color=000000&label=%20" /> (<img src="https://img.shields.io/github/release-date-pre/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />)
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">
+    <td align="center">
       <b>Download</b><br />
       <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.TagPlus/total?style=flat-square&color=000000&label=%20" />
     </td>
@@ -41,13 +41,13 @@
     </ul></td>
   </tr>
   <tr>
-    <td style="text-align: center"><b>Issue</b></td>
+    <td align="center"><b>Issue</b></td>
     <td>
       <b>Open: </b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />
     </td>
   </tr>
   <tr>
-    <td style="text-align: center"><b>Pull Request</b></td>
+    <td align="center"><b>Pull Request</b></td>
     <td>
       <b>Open: </b><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />
     </td>
