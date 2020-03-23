@@ -1,6 +1,6 @@
 🌐｜[English](./README.md)　[中文](./README.zh-hant.md)
 
-# <div align="center"><img src="https://i.imgur.com/s4ms8Qv.png" style="height: 64px; width: auto" /><br />Minecraft Java Data Pack: Tag+</div>
+# <div align="center"><img src="https://i.imgur.com/s4ms8Qv.png" height="64px" /><br />Minecraft Java Data Pack: Tag+</div>
 
 <div align="center">
   <code>hugoalh/Minecraft.Java.DataPack.TagPlus</code><br />
