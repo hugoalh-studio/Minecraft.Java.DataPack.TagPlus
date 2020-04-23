@@ -1,0 +1,20 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:guardians",
+		"#minecraft:raiders",
+		"#minecraft:skeletons",
+		"minecraft:blaze",
+		"minecraft:creeper",
+		"minecraft:drowned",
+		"minecraft:endermite",
+		"minecraft:ghast",
+		"minecraft:husk",
+		"minecraft:magma_cube",
+		"minecraft:phantom",
+		"minecraft:shulker",
+		"minecraft:silverfish",
+		"minecraft:slime",
+		"minecraft:vex"
+	]
+}
