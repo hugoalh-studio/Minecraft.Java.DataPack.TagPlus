@@ -4,10 +4,10 @@
 			"item": "minecraft:name_tag"
 		},
 		"title": {
-			"text": "[Java Data Pack] Tag+"
+			"text": "[Data Pack] Tag+ (1.0.2)"
 		},
 		"description": {
-			"text": "Tag+, 1.0.2"
+			"text": "Add and improve tags."
 		},
 		"frame": "task",
 		"show_toast": false,
