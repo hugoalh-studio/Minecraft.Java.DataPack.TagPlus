@@ -1,6 +1,9 @@
 {
 	"replace": true,
 	"values": [
+		"minecraft:ancient_debris",
+		"minecraft:gilded_blackstone",
+		"minecraft:nether_gold_ore",
 		"minecraft:nether_quartz_ore"
 	]
 }
