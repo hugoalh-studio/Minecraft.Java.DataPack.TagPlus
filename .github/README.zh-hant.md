@@ -56,7 +56,7 @@
 
 ## 📜 說明
 
-增加和改善Minecraft Java中的標籤。
+增加和改善標籤。
 
 [🏷 標籤列表](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 
