@@ -58,7 +58,7 @@
 
 Add and improve tags for Minecraft Java.
 
-[🏷 Tags List](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki/Tag-List)
+[🏷 Tags List](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 
 ### ⚠ Important
 
