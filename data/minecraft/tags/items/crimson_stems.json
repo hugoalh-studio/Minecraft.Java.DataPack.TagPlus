@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:stripped_crimson_stems",
+		"#minecraft:unstripped_crimson_stems"
+	]
+}
