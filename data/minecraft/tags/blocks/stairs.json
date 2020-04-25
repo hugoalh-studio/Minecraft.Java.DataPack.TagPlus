@@ -2,6 +2,7 @@
 	"replace": true,
 	"values": [
 		"#minecraft:andesite_stairs",
+		"#minecraft:blackstone_stairs",
 		"#minecraft:cobblestone_stairs",
 		"#minecraft:diorite_stairs",
 		"#minecraft:granite_stairs",

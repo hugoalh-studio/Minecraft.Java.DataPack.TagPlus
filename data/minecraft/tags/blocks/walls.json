@@ -1,6 +1,7 @@
 {
 	"replace": true,
 	"values": [
+		"#minecraft:blackstone_walls",
 		"#minecraft:cobblestone_walls",
 		"#minecraft:nether_brick_walls",
 		"#minecraft:sandstone_walls",
