@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:smooth_stone",
+		"minecraft:stone"
+	]
+}
