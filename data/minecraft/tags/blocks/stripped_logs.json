@@ -3,9 +3,11 @@
 	"values": [
 		"#minecraft:stripped_acacia_logs",
 		"#minecraft:stripped_birch_logs",
+		"#minecraft:stripped_crimson_stems",
 		"#minecraft:stripped_dark_oak_logs",
 		"#minecraft:stripped_jungle_logs",
 		"#minecraft:stripped_oak_logs",
-		"#minecraft:stripped_spruce_logs"
+		"#minecraft:stripped_spruce_logs",
+		"#minecraft:stripped_warped_stems"
 	]
 }

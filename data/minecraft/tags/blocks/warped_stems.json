@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:stripped_warped_stems",
+		"#minecraft:unstripped_warped_stems"
+	]
+}
