@@ -9,6 +9,7 @@
 		"minecraft:drowned",
 		"minecraft:endermite",
 		"minecraft:ghast",
+		"minecraft:hoglin",
 		"minecraft:husk",
 		"minecraft:magma_cube",
 		"minecraft:phantom",
@@ -16,6 +17,7 @@
 		"minecraft:silverfish",
 		"minecraft:slime",
 		"minecraft:vex",
+		"minecraft:zoglin",
 		"minecraft:zombie_villager",
 		"minecraft:zombie"
 	]
