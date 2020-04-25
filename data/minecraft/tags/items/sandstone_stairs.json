@@ -1,0 +1,9 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:red_sandstone_stairs",
+		"minecraft:sandstone_stairs",
+		"minecraft:smooth_red_sandstone_stairs",
+		"minecraft:smooth_sandstone_stairs"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:andesite_slab",
+		"minecraft:polished_andesite_slab"
+	]
+}

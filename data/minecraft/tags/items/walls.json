@@ -2,6 +2,7 @@
 	"replace": true,
 	"values": [
 		"#minecraft:cobblestone_walls",
+		"#minecraft:nether_brick_walls",
 		"#minecraft:sandstone_walls",
 		"#minecraft:stone_brick_walls",
 		"minecraft:andesite_wall",
@@ -9,8 +10,6 @@
 		"minecraft:diorite_wall",
 		"minecraft:end_stone_brick_wall",
 		"minecraft:granite_wall",
-		"minecraft:nether_brick_wall",
-		"minecraft:prismarine_wall",
-		"minecraft:red_nether_brick_wall"
+		"minecraft:prismarine_wall"
 	]
 }
