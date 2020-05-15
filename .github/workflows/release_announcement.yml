@@ -19,7 +19,7 @@ jobs:
       name: "Setup NodeJS Dependencies"
       run: npm install
     - id: "fetch-data-main"
-      uses: "hugoalh/GitHubAction.ReleaseFetcher@v0.1"
+      uses: "hugoalh/GitHubAction.ReleaseFetcher@v0.1.1"
   send-to-discord:
     name: "Send To Discord"
     runs-on: "ubuntu-latest"
@@ -35,7 +35,7 @@ jobs:
       name: "Setup NodeJS Dependencies"
       run: npm install
     - id: "send-to-discord-main"
-      uses: "hugoalh/GitHubAction.SendToDiscord@v0.1"
+      uses: "hugoalh/GitHubAction.SendToDiscord@v0.1.1"
       with:
         discord_webhook_url: ${{secrets.DISCORD_WEBHOOK_URL}}
         message_text: "[Minecraft Java Data Pack] Tag+ %Release.Version% is now available on GitHub (%Release.WebUrl%).\n\n%Note_Split.1%"
