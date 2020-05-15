@@ -12,7 +12,7 @@ jobs:
     steps:
     - id: "setup-nodejs"
       name: "Setup NodeJS"
-      uses: "actions/setup-node@latest"
+      uses: "actions/setup-node@v1"
       with:
         node-version: "12"
     - id: "setup-nodejs-dependencies"
@@ -28,7 +28,7 @@ jobs:
     steps:
     - id: "setup-nodejs"
       name: "Setup NodeJS"
-      uses: "actions/setup-node@latest"
+      uses: "actions/setup-node@v1"
       with:
         node-version: "12"
     - id: "setup-nodejs-dependencies"
