@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center"><b>License</b></td>
-    <td>Public source; All rights reserved, unless otherwise explicitly stated</td>
+    <td>MIT</td>
   </tr>
   <tr>
     <td align="center"><b>Release</b></td>

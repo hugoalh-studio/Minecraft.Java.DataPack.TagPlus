@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center"><b>授權</b></td>
-    <td>公開源碼；除非另有明確說明，否則保留所有權利</td>
+    <td>MIT</td>
   </tr>
   <tr>
     <td align="center"><b>發行</b></td>

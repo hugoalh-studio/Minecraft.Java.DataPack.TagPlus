@@ -5,8 +5,8 @@
 | **Version** | **Targeted Minecraft Java Version** | **Support** |
 |:---:|:---:|:---:|
 | 1.1.0 | 1.16 | ✔ |
-| 1.0.6 | 1.15.2 | ✔ |
-| < 1.0.6 | 1.15.2 | ❌ |
+| 1.0.7 | 1.15.2 | ✔ |
+| < 1.0.7 | 1.15.2 | ❌ |
 
 ## Report Vulnerability
 
