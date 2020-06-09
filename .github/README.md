@@ -56,7 +56,7 @@
 
 ## 📜 Description
 
-Add missing tags, and improve and optimize current tags.
+Add missing tags, and improve and optimize tags.
 
 [🏷 Tags List](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 
