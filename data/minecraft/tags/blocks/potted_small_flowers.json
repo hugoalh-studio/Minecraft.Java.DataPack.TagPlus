@@ -1,0 +1,15 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:potted_tulips",
+		"minecraft:potted_allium",
+		"minecraft:potted_azure_bluet",
+		"minecraft:potted_blue_orchid",
+		"minecraft:potted_cornflower",
+		"minecraft:potted_dandelion",
+		"minecraft:potted_lily_of_the_valley",
+		"minecraft:potted_oxeye_daisy",
+		"minecraft:potted_poppy",
+		"minecraft:potted_wither_rose"
+	]
+}

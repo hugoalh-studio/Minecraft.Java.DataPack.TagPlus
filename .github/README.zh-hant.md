@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center"><b>授權</b></td>
-    <td>公開源碼；除非另有明確說明，否則保留所有權利</td>
+    <td>MIT</td>
   </tr>
   <tr>
     <td align="center"><b>發行</b></td>
@@ -56,7 +56,7 @@
 
 ## 📜 說明
 
-增加缺少的標籤，並改善和優化當前的標籤。
+增加缺少的標籤，並改善和優化標籤。
 
 [🏷 標籤列表](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 

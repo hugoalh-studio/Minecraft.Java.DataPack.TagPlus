@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center"><b>License</b></td>
-    <td>Public source; All rights reserved, unless otherwise explicitly stated</td>
+    <td>MIT</td>
   </tr>
   <tr>
     <td align="center"><b>Release</b></td>
@@ -56,7 +56,7 @@
 
 ## 📜 Description
 
-Add missing tags, and improve and optimize current tags.
+Add missing tags, and improve and optimize tags.
 
 [🏷 Tags List](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 
