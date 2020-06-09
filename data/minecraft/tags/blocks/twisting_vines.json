@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"minecraft:twisting_vines_plant",
+		"minecraft:twisting_vines"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:standing_torches",
+		"#minecraft:wall_torches"
+	]
+}

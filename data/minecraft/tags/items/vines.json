@@ -1,0 +1,7 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:the_nether_vines",
+		"minecraft:vine"
+	]
+}

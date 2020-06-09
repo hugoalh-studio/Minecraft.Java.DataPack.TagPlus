@@ -1,7 +1,7 @@
 {
 	"replace": true,
 	"values": [
-		"#minecraft:wooden_buttons",
-		"minecraft:stone_button"
+		"#minecraft:stone_buttons",
+		"#minecraft:wooden_buttons"
 	]
 }

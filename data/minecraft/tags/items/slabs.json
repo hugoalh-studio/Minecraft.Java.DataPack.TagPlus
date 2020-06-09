@@ -2,6 +2,7 @@
 	"replace": true,
 	"values": [
 		"#minecraft:andesite_slabs",
+		"#minecraft:blackstone_slabs",
 		"#minecraft:cobblestone_slabs",
 		"#minecraft:diorite_slabs",
 		"#minecraft:granite_slabs",
@@ -10,12 +11,11 @@
 		"#minecraft:quartz_slabs",
 		"#minecraft:sandstone_slabs",
 		"#minecraft:stone_brick_slabs",
+		"#minecraft:stone_slabs",
 		"#minecraft:wooden_slabs",
 		"minecraft:brick_slab",
 		"minecraft:end_stone_brick_slab",
 		"minecraft:petrified_oak_slab",
-		"minecraft:purpur_slab",
-		"minecraft:smooth_stone_slab",
-		"minecraft:stone_slab"
+		"minecraft:purpur_slab"
 	]
 }
