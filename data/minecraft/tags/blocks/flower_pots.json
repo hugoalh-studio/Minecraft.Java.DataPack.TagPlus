@@ -1,7 +1,9 @@
 {
 	"replace": true,
 	"values": [
+		"#minecraft:potted_fungus",
 		"#minecraft:potted_mushrooms",
+		"#minecraft:potted_roots",
 		"#minecraft:potted_saplings",
 		"#minecraft:potted_small_flowers",
 		"minecraft:flower_pot",
