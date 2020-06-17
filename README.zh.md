@@ -63,7 +63,7 @@
 
 [🏷 標籤列表](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 
-**⚠ 重要：**此資料包替換了原始／默認標籤。
+<b>⚠ 重要：</b>此資料包替換了原始／默認標籤。
 
 ## 🐛 問題
 
