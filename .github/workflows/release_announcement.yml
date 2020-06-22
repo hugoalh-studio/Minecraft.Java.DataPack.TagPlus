@@ -30,17 +30,17 @@ jobs:
 #        message_embed_authorurl:
 #        message_embed_authoravatarurl:
         message_embed_title: "[Minecraft Java Data Pack] Tag+"
-        message_embed_titleurl: "https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus"
+#        message_embed_titleurl:
         message_embed_description: "Version %release.name% is released and available on GitHub!\n%release.html_url%"
         message_embed_thumbnailurl: "https://i.imgur.com/s4ms8Qv.png"
 #        message_embed_imageurl:
 #        message_embed_videourl:
-#        message_embed_field_0_key:
-#        message_embed_field_0_value:
-#        message_embed_field_0_isinline:
-#        message_embed_field_1_key:
-#        message_embed_field_1_value:
-#        message_embed_field_1_isinline:
+        message_embed_field_0_key: "GitHub"
+        message_embed_field_0_value: "https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus"
+        message_embed_field_0_isinline: "false"
+        message_embed_field_1_key: "CurseForge"
+        message_embed_field_1_value: "https://www.curseforge.com/minecraft/customization/tagplus"
+        message_embed_field_1_isinline: "false"
 #        message_embed_field_2_key:
 #        message_embed_field_2_value:
 #        message_embed_field_2_isinline:
