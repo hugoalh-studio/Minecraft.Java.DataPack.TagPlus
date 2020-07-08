@@ -3,7 +3,7 @@
 ## Supported Version
 
 | **Version** | **Targeted Minecraft Java Version** | **Support** |
-|:----|:----|:---=|
+|:----|:----|:----|
 | v1.1.1 | 1.16 | ✔ |
 | < v1.1.1 | 1.16 | ❌ |
 | v1.0.7 | 1.15.2 | ✔ |
