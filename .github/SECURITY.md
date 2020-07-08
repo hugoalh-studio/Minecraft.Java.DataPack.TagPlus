@@ -13,7 +13,7 @@
 
 Version which listed in here were confirmed contains bug(s), and forever not supported (even if listed as a supported version above).
 
-*N/A*.
+*(N/A)*
 
 ## Report Vulnerability
 
