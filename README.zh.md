@@ -1,61 +1,22 @@
 🌐 | [English](./README.md) / [中文](./README.zh.md)
 
-# <div align="center"><img align="center" src="https://i.imgur.com/s4ms8Qv.png" height="48px" />［Minecraft Java資料包］標籤＋</div>
+# <img align="center" src="https://i.imgur.com/s4ms8Qv.png" height="64px" />［Minecraft Java資料包］標籤＋
 
-<div align="center">
-  <code>hugoalh/Minecraft.Java.DataPack.TagPlus</code><br />
-  <img src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/repo-size/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/watchers/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/forks/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github" />
-</div>
+[`hugoalh/Minecraft.Java.DataPack.TagPlus`](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus)
 
-<table align="right">
-  <tr>
-    <td align="center">
-      <b>貢獻者</b><br />
-      <img src="https://img.shields.io/github/contributors/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />
-    </td>
-    <td><a href="https://github.com/hugoalh">hugoalh</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>授權</b></td>
-    <td><a href="./LICENSE.md">MIT</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>發行</b></td>
-    <td>
-      <b>穩定：</b><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />（<img src="https://img.shields.io/github/release-date/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />）<br />
-      <b>最新：</b><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.TagPlus?include_prereleases&style=flat-square&color=000000&label=%20" />（<img src="https://img.shields.io/github/release-date-pre/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />）
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>下載</b><br />
-      <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.TagPlus/total?style=flat-square&color=000000&label=%20" />
-    </td>
-    <td><ul>
-      <li><a href="https://www.curseforge.com/minecraft/customization/tagplus">CurseForge</a></li>
-      <li><a href="https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/releases">GitHub</a></li>
-    </ul></td>
-  </tr>
-  <tr>
-    <td align="center"><b>問題</b></td>
-    <td>
-      <b>開啟：</b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" /><br />
-      <b>已關閉：</b><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>合併請求</b></td>
-    <td>
-      <b>開啟：</b><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" /><br />
-      <b>已關閉：</b><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20" />
-    </td>
-  </tr>
-</table>
+[![](https://img.shields.io/github/contributors/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/graphs/contributors)
+[![](https://img.shields.io/github/license/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/blob/master/LICENSE.md)
+![](https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+![](https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+![](https://img.shields.io/github/repo-size/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+![](https://img.shields.io/github/languages/code-size/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+![](https://img.shields.io/github/watchers/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+![](https://img.shields.io/github/stars/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+![](https://img.shields.io/github/forks/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&logo=github)
+
+| **[發行](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/releases)** ![](https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.TagPlus/total?style=flat-square&color=000000&label=%20) | **[問題](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues?q=is%3Aissue)** | **[拉取請求](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/pulls?q=is%3Apr)** |
+|:----|:----|:----|
+| **最新：** ![](https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.TagPlus?sort=semver&style=flat-square&color=000000&label=%20)（![](https://img.shields.io/github/release-date/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20)）<br />**預覽：** ![](https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.TagPlus?include_prereleases&sort=semver&style=flat-square&color=000000&label=%20)（![](https://img.shields.io/github/release-date-pre/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20)）<br />[![](https://img.shields.io/static/v1?style=flat-square&logo=curseforge&label=curseforge&message=%20&color=orange)](https://www.curseforge.com/minecraft/customization/tagplus) | **開啟：** ![](https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20)<br />**已關閉：** ![](https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20)<br />[hugoalh Minecraft專案—問題表格](https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link) | **開啟：** ![](https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20)<br />**已關閉：** ![](https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.TagPlus?style=flat-square&color=000000&label=%20) |
 
 ## 📜 說明
 
@@ -63,8 +24,8 @@
 
 [🏷 標籤列表](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/wiki)
 
-<b>⚠ 重要：</b>此資料包替換了原始／默認標籤。
+**⚠ 重要：** 此資料包替換了原始／默認標籤。
 
-## 🐛 問題
+## 📚 指南
 
-在這個專案中發現任何問題？通過[GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/issues)或[Google表單（英文）](https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link)提交該問題。
+- [安裝資料包](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E5%AE%89%E8%A3%85%E6%95%B0%E6%8D%AE%E5%8C%85)

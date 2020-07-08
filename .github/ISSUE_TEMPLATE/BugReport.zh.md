@@ -1,34 +1,36 @@
 ---
-name: 報告錯誤
-about: 報告一個錯誤
+name: "錯誤報告"
+about: "報告一個錯誤。"
 title: ""
 labels: ""
 assignees: ""
 ---
-## 說明
+## 描述
+
+*是甚麼錯誤？*
 
 
 
 ## 版本
 
-> ［選填］在遊戲中使用指令`/datapack list`並懸停在此資料包時，或在進度標籤中懸停在此資料包時，均會顯示版本編號／代碼。將此欄保留為空白將默認為最新發佈的版本。
+*必須是[安全政策](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/security/policy)中列出的受支持版本。（將此欄保留為空白將會默認為最新版本。）*
 
 
 
 ## Minecraft Java版本
 
-> ［選填］Minecraft Java版本編號／代碼顯示在窗口標題，或在遊戲主菜單的左下方；如果使用任何模組，也在此處列出（例如：Forge）。將此欄保留為空白將默認為最新發佈的版本。
+*必須是[安全政策](https://github.com/hugoalh/Minecraft.Java.DataPack.TagPlus/security/policy)中列出的受支持版本；如果使用任何模組，也在此欄列出（例如：Forge）。（將此欄保留為空白將會默認為最新版本。）*
 
 
 
-## 重現問題的步驟
+## 重現
 
-> ［選填］如果此問題可以重複地出現，請列出你的步驟！
+*\[選擇性\] 如果該錯誤可以重覆發生，請列出你的步驟！*
 
 
 
-## 預期的行為
+## 預期行為
 
-> ［選填］應該發生甚麼事情？
+*\[選擇性\] 應該要發生甚麼事情？*
 
 
