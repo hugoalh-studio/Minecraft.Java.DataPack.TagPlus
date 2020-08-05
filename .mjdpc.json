@@ -1,0 +1,7 @@
+{
+	"root": "./",
+	"import": "./",
+	"export": "./compiled",
+	"include": [],
+	"exclude": []
+}

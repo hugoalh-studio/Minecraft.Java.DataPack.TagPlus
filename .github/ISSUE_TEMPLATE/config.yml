@@ -6,10 +6,3 @@
 #     2020-06-28
 # ==================
 blank_issues_enabled: true
-contact_links:
-  - name: "hugoalh's Minecraft Projects - Issue Form"
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link"
-    about: "An alternative way to submit issue."
-  - name: "hugoalh Minecraft專案—問題表格（英文）"
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link"
-    about: "提交問題的另一個途徑。"
