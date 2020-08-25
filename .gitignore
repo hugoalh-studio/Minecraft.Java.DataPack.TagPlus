@@ -3,7 +3,7 @@
 #   Language:
 #     Git-Configuration
 #   Last Update:
-#     2020-07-05
+#     2020-08-07
 # ==================
 _compareTemp
 _notes
@@ -44,7 +44,6 @@ _notes
 .ninja_log
 .node_repl_history
 .npm
-.npmrc
 .nuxt
 .nyc_output
 .recommenders
@@ -58,6 +57,7 @@ _notes
 .Trash-*
 .Trashes
 .VolumeIcon.icns
+.vs/*
 .vscode/*
 .vuepress/dist
 .wafpickle-*
@@ -110,7 +110,6 @@ abstract.log*
 bin-debug/*
 bower_components
 build/Release
-compiled/*
 config.gypi
 coverage
 crashlytics-build.properties
@@ -139,3 +138,5 @@ urgReport/*
 vsim.dbg
 yarn-debug.log*
 yarn-error.log*
+
+compiled/*

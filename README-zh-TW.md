@@ -1,4 +1,4 @@
-🌐 | [English](./README.md) / [中文](./README.zh.md)
+🌐 | [English](./README.md) / [中文](./README-zh-TW.md)
 
 # <img align="center" src="https://i.imgur.com/s4ms8Qv.png" height="64px" />［Minecraft Java資料包］標籤＋
 

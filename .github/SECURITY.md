@@ -4,14 +4,12 @@
 
 | **Version** | **Targeted Minecraft Java Version** | **Support** |
 |:----|:----|:----|
-| v1.1.1 | 1.16 | ✔ |
-| < v1.1.1 | 1.16 | ❌ |
-| v1.0.7 | 1.15.2 | ✔ |
-| < v1.0.7 | 1.15.2 | ❌ |
+| v2.0.0 | 1.16.2 | ✔ |
+| < v2.0.0 |  | ❌ |
 
 ### Buggy
 
-Version which listed in here were confirmed contains bug(s), and forever not supported (even if listed as a supported version above).
+Version(s) that listed in here were confirmed contains bug(s), and forever not supported (even if listed as a supported version).
 
 *(N/A)*
 
@@ -19,7 +17,7 @@ Version which listed in here were confirmed contains bug(s), and forever not sup
 
 ### Contact
 
-Send an email to anyone who listed here (click the link to obtain the email address).
+Send an email to anyone who listed in here (click the link to obtain the email address).
 
 - [hugoalh](https://github.com/hugoalh)
 
@@ -29,7 +27,7 @@ Please include these content(s) in the email!
 
 #### Title
 
-- Project index (mostly start with `hugoalh/`)
+- Project index (mostly start with `hugoalh-studio/`)
 - Affected version(s) (must be a supported version(s) listed above) (if this is too long, then move this section to body)
 
 #### Body
