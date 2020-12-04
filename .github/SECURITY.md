@@ -2,10 +2,18 @@
 
 ## Supported Version
 
-| **Version** | **Targeted Minecraft Java Version** | **Support** |
-|:----|:----|:----|
-| v2.0.0 | 1.16.2 | ✔ |
-| < v2.0.0 |  | ❌ |
+> | **Legend** | **Description** |
+> |:---:|:----|
+> | L | **LTS:** This is long term supported. |
+> | ✔ | **Yes:** This is supported. |
+> | 👎 | **Partly:** This is partly supported due to this version(s) is deprecated by a newer version(s). |
+> | ❌ | **No:** This is not supported due to this version(s) is too old. |
+> | ⚠ | **Issue:** This is not supported due to this version(s) is confirmed contains bug(s) and/or issue(s). |
+
+| **Version** | **Targeted Minecraft Java Data Pack Version** | **Support** |
+|:---:|:---:|:---:|
+| v2.0.0 | 6 | ✔ |
+| < v2.0.0 | *(N/A)* | ❌ |
 
 ### Buggy
 
@@ -21,19 +29,12 @@ Send an email to anyone who listed in here (click the link to obtain the email a
 
 - [hugoalh](https://github.com/hugoalh)
 
-### Content
+### Suggested Content List
 
-Please include these content(s) in the email!
-
-#### Title
-
+- Your GitHub account username (e.g.: `@octocat`)
 - Project index (mostly start with `hugoalh-studio/`)
-- Affected version(s) (must be a supported version(s) listed above) (if this is too long, then move this section to body)
-
-#### Body
-
-- Your name, or GitHub account
+- Affected version(s) (must be a supported version(s))
 - Affected file(s)
 - Issue(s) to cause this security issue
-- *\[Optional\]* Security level
-- *\[Optional\]* Reference of this security issue
+- Common Vulnerabilities and Exposures (CVE) identification number(s)
+- Reference of this security issue
