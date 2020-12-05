@@ -15,12 +15,6 @@
 | v2.0.0 | 6 | ✔ |
 | < v2.0.0 | *(N/A)* | ❌ |
 
-### Buggy
-
-Version(s) that listed in here were confirmed contains bug(s), and forever not supported (even if listed as a supported version).
-
-*(N/A)*
-
 ## Report Vulnerability
 
 ### Contact
